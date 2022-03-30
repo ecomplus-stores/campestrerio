@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#218221",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "yeti",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#4dff25",
   "repository": "ecomplus-stores/campestrerio",
   "logo": "/img/uploads/logo-removebg-preview.png",
   "name": "Campestre Rio",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/logo-removebg-preview.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-removebg-preview.png",
