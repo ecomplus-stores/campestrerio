@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "10% off em todo o site para pagamentos à vista ",
     "link": "",
-    "background": "#218221"
+    "background": "#719b71",
+    "color": "#d1ffd1"
   },
   "contacts_stripe": {
     "pages": [],
@@ -10,8 +11,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/sinuca/?SINUCA"
+    ],
+    "random": 20,
     "full_width": true
   },
   "desktop_megamenu": true,
