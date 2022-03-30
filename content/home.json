@@ -25,7 +25,7 @@
       "sort": "sales",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 10,
       "page": 1
     }
   ]
