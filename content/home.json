@@ -6,16 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/banner-promo-carnaval.jpg",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
