@@ -8,8 +8,8 @@
     "text": "Parcele sem juros em até 12 X"
   },
   "exchange": {
-    "show": true,
-    "text": ""
+    "show": false,
+    "text": "7 dias para trocas"
   },
   "promo": {
     "show": true,
