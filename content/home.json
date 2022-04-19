@@ -5,11 +5,11 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
-          "start": "2022-03-30T18:08:25.734Z",
-          "end": "2023-03-30T18:08:00.000Z",
+          "start": "2022-04-19T19:06:07.121Z",
+          "end": "2025-04-19T19:06:00.000Z",
           "img": "/img/uploads/banner2.png"
         }
       ]
