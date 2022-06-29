@@ -23,10 +23,26 @@
       "shuffle": true,
       "collection_id": "622bf5fd8bd0103c54efa770:categories:SINUCA:/sinuca/",
       "sort": "views",
-      "title": "sinuca",
+      "title": "Sinucas",
       "headless": false,
       "limit": 10,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Ofertas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais vendidos"
     }
   ]
 }
